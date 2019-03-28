@@ -1,9 +1,9 @@
 {
     "appEntryPoint": "/user",
-    "appTitle": "Defrost",
+    "appTitle": "Greg",
     "modules": [
         {
-            "url": "https://github.com/Humanitec/documents-client-angular.git",
+            "url": "git@github.com:Humanitec-Walhall/midgard-documents.git",
             "name": "documents",
             "config": {
                 "entryPointComponent": "",
